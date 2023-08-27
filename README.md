@@ -1,5 +1,5 @@
 # Rancang Bangun Aplikasi Pencarian Kerja Berbasis Web Menggunakan Algoritma Boyer-Moore
-Melanjutkan proyek Kerja Praktik untuk penelitian Perbandingan algoritma brute force dengan algoritma boyer-moore pada aplikasi pencarian kerja berbasis web. 
+Melanjutkan proyek Kerja Praktik untuk penelitian Perbandingan algoritma brute force dengan algoritma brute force pada aplikasi pencarian kerja berbasis web. 
 
 jurnal : [Perbandingan Algoritma Brute Force Dengan Algoritma Boyer-Moore Pada Aplikasi Pencarian Kerja Berbasis Web](https://ejurnal.dipanegara.ac.id/index.php/jusiti)
 
@@ -79,10 +79,12 @@ jurnal : [Perbandingan Algoritma Brute Force Dengan Algoritma Boyer-Moore Pada A
 ## screanshot
 
 1. Hasil Pencarian menggunakan Boyer-Moore
-   ![Untitled video - Made with Clipchamp (7)](https://github.com/fahmyfauzi/boyermoore/assets/58255031/09e29f62-c336-414d-8cbd-8baa55dea6c8)
+    ![Untitled video - Made with Clipchamp (7)](https://github.com/fahmyfauzi/bruteforce/assets/58255031/69efd985-ecbc-4431-9633-d1a5ed62055b)
+
 
     
 2. Hasil Pencarian menggunakan Brute Force
-   ![Untitled video - Made with Clipchamp (9)](https://github.com/fahmyfauzi/boyermoore/assets/58255031/f1c3dfea-5044-4f5f-88ab-c3efb6294af8)
+   ![Untitled video - Made with Clipchamp (9)](https://github.com/fahmyfauzi/bruteforce/assets/58255031/30154c9b-a75b-437b-8556-b61b7d8849ad)
+
 
    
